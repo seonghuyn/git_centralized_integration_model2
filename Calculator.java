@@ -22,7 +22,7 @@ public class Calculator {
             default:
                 System.out.println("올바른 연산자를 입력하세요.");
 				 System.out.println("hi.");
-				 System.out.println("hi.");
+				 System.out.println("hello");
         }
 
         return result;
